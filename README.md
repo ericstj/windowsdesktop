@@ -66,14 +66,14 @@ Download official .NET releases [here](https://www.microsoft.com/net/download#co
 
 | Platform | Main |
 | --- |  :---: |
-| **Windows (x64)** | [![][win-x64-badge-main]][win-x64-version-main]<br>[Installer][win-x64-installer-main] ([Checksum][win-x64-installer-checksum-main])<br>[zip][win-x64-zip-main] ([Checksum][win-x64-zip-checksum-main]) |
-| **Windows (x86)** | [![][win-x86-badge-main]][win-x86-version-main]<br>[Installer][win-x86-installer-main] ([Checksum][win-x86-installer-checksum-main])<br>[zip][win-x86-zip-main] ([Checksum][win-x86-zip-checksum-main]) |
+| **Windows (x64)** | [![][win-x64-badge-master]][win-x64-version-main]<br>[Installer][win-x64-installer-main] ([Checksum][win-x64-installer-checksum-main])<br>[zip][win-x64-zip-main] ([Checksum][win-x64-zip-checksum-main]) |
+| **Windows (x86)** | [![][win-x86-badge-master]][win-x86-version-main]<br>[Installer][win-x86-installer-main] ([Checksum][win-x86-installer-checksum-main])<br>[zip][win-x86-zip-main] ([Checksum][win-x86-zip-checksum-main]) |
 
 <!-- END generated table -->
 
 <!-- BEGIN links to include in table -->
 
-[win-x64-badge-main]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/sharedfx_win-x64_Release_version_badge.svg
+[win-x64-badge-master]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/sharedfx_win-x64_Release_version_badge.svg
 [win-x64-version-main]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/latest.version
 [win-x64-installer-main]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/windowsdesktop-runtime-latest-win-x64.exe
 [win-x64-installer-checksum-main]: https://dotnetclichecksums.blob.core.windows.net/dotnet/WindowsDesktop/main/windowsdesktop-runtime-latest-win-x64.exe.sha512
@@ -81,7 +81,7 @@ Download official .NET releases [here](https://www.microsoft.com/net/download#co
 [win-x64-zip-checksum-main]: https://dotnetclichecksums.blob.core.windows.net/dotnet/WindowsDesktop/main/windowsdesktop-runtime-latest-win-x64.zip.sha512
 
 
-[win-x86-badge-main]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/sharedfx_win-x86_Release_version_badge.svg
+[win-x86-badge-master]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/sharedfx_win-x86_Release_version_badge.svg
 [win-x86-version-main]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/latest.version
 [win-x86-installer-main]: https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/main/windowsdesktop-runtime-latest-win-x86.exe
 [win-x86-installer-checksum-main]: https://dotnetclichecksums.blob.core.windows.net/dotnet/WindowsDesktop/main/windowsdesktop-runtime-latest-win-x86.exe.sha512
