@@ -8,7 +8,7 @@
     <InstallerRuntimeIdentifiers>win-x64;win-x86;win-arm64</InstallerRuntimeIdentifiers>
     <VSInsertionShortComponentName>WindowsDesktop.TargetingPack</VSInsertionShortComponentName>
 
-    <_WinFormsContentPath>$(PkgMicrosoft_Private_Winforms)\WindowsDesktop.App.Ref</_WinFormsContentPath>
+    <_WinFormsContentPath>$([MSBuild]::NormalizePath($(PkgMicrosoft_Private_Winforms), 'sdk', 'dotnet-windowsdesktop'))</_WinFormsContentPath>
     <_WindowsFormsContentProps>$(_WinFormsContentPath)\System.Windows.Forms.Analyzers.props</_WindowsFormsContentProps>
     <_WindowsFormsContentTargets>$(_WinFormsContentPath)\System.Windows.Forms.Analyzers.targets</_WindowsFormsContentTargets>
   </PropertyGroup>
